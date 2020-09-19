@@ -1,6 +1,6 @@
 # 2StreamConvNet for single channel series
 
-**See our latest code [here](https://github.com/ganler/2StreamConvNet-for-single-channel-series/blob/master/%E5%A4%9A%E5%AA%92%E4%BD%93%E5%A4%A7%E4%BD%9C%E4%B8%9A%E5%AE%9E%E8%B7%B5%E6%8A%A5%E5%91%8A%E4%B8%8E%E4%BB%A3%E7%A0%81.ipynb) and lastest paper [here](https://github.com/ganler/2StreamConvNet-for-single-channel-series/blob/master/Transfer-Learning-Apply-Image-Recognition-Models-to-Action-Recognition-with-Dynamic-Vision%20Sensor.pdf).**
+**See our latest code [here](https://github.com/ganler/2StreamConvNet-for-single-channel-series/blob/master/%E5%A4%9A%E5%AA%92%E4%BD%93%E5%A4%A7%E4%BD%9C%E4%B8%9A%E5%AE%9E%E8%B7%B5%E6%8A%A5%E5%91%8A%E4%B8%8E%E4%BB%A3%E7%A0%81.ipynb) and lastest report [here](https://github.com/ganler/2StreamConvNet-for-single-channel-series/blob/master/Transfer-Learning-Apply-Image-Recognition-Models-to-Action-Recognition-with-Dynamic-Vision%20Sensor.pdf).**
 
 
 > This repo is a **pytorch** implementation of 2 stream convolutional neural networks, which can be used in detached single channel frames series.
